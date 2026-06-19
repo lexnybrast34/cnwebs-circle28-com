@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lexnybrast34.github.io/cnwebs-circle28-com/sitemap.xml
